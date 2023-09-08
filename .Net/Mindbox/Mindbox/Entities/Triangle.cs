@@ -27,9 +27,7 @@ namespace Mindbox.Entities
             EdgeB = edgeB;
             EdgeC = edgeC;
         }
-
-
-
+        
         /// <summary>
         /// Сторона А
         /// </summary>
