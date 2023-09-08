@@ -31,9 +31,7 @@ namespace Mindbox.Tests.Entities
 
             Assert.Equal(6, square);
         }
-
-
-
+        
         /// <summary>
         /// Проверить является ли треугольник прямоугольным
         /// Должен подтвердить
